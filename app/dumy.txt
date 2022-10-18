@@ -1,0 +1,3 @@
+user: prashik
+mail: p@gmail.com
+pass : Qwerty123@(exclude [-1])
